@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Widget on/off</title>
+    <g id="Widget on/off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pie2" transform="translate(-1170.000000, -552.000000)" fill="#6C7A88" fill-rule="nonzero">
+            <g id="Group-8" transform="translate(1170.000000, 552.000000)">
+                <g id="Group-23" transform="translate(0.000000, 0.000000)">
+                    <path d="M50,24 C58.836556,24 66,31.163444 66,40 C66,48.836556 58.836556,56 50,56 L30,56 C21.163444,56 14,48.836556 14,40 C14,31.163444 21.163444,24 30,24 L50,24 Z M50,26 L30,26 C22.2680135,26 16,32.2680135 16,40 C16,47.6275002 22.0997524,53.8303269 29.687355,53.996578 L30,54 L50,54 C57.7319865,54 64,47.7319865 64,40 C64,32.3724998 57.9002476,26.1696731 50.312645,26.003422 L50,26 Z M50,28 C56.627417,28 62,33.372583 62,40 C62,46.627417 56.627417,52 50,52 C43.372583,52 38,46.627417 38,40 C38,33.372583 43.372583,28 50,28 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

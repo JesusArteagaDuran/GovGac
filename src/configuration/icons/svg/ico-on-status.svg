@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="42px" viewBox="0 0 107 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8B92A242-0DF3-4141-A486-99118A58695E</title>
+    <g id="Widget-boton-on/off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Boton2-Copy-3" transform="translate(-465.000000, -659.000000)">
+            <g id="Group-9" transform="translate(465.000000, 659.000000)">
+                <text id="OFF-Copy" font-family="SourceSansPro-SemiBold, Source Sans Pro" font-size="13" font-weight="500" fill="#2E384D">
+                    <tspan x="83" y="25">ON</tspan>
+                </text>
+                <g id="Group-5-Copy">
+                    <rect id="Rectangle" fill="#577EE8" x="0" y="0" width="73" height="42" rx="21"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="52" cy="21" r="17"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

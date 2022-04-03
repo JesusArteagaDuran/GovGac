@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 56.2 (101010) - https://sketch.com -->
+    <title>63A407D7-E656-4469-8242-F70C464D1096</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.3585555%" id="linearGradient-1">
+            <stop stop-color="#EC8CE5" offset="0%"></stop>
+            <stop stop-color="#F3A7E7" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="22" y="23" width="48" height="48" rx="24"></rect>
+        <filter x="-31.2%" y="-31.2%" width="162.5%" height="162.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.62553972   0 0 0 0 0.920672596  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-⚙-Design-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-⚙-Iconos" transform="translate(-906.000000, -352.000000)">
+            <g id="Gestión-de-Templates" transform="translate(906.000000, 352.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Group" transform="translate(22.000000, 29.000000)" fill="#2B334A" fill-rule="nonzero">
+                    <path d="M38.0739764,0 L0.645321633,0 C0.288920337,0 0,0.289937662 0,0.647593893 L0,30.436913 C0,30.7945692 0.288920337,31.0845068 0.645321633,31.0845068 L38.0739764,31.0845068 C38.4303777,31.0845068 38.719298,30.7945692 38.719298,30.436913 L38.719298,0.647593893 C38.719298,0.289937662 38.4303777,0 38.0739764,0 Z M18.6368888,11.7084976 L24.2060145,14.8104723 C24.3739329,14.9048629 24.5750714,14.9191109 24.7545379,14.849328 L37.4286547,10.0053256 L37.4286547,16.1898473 L2.99429238,16.1898473 L18.6368888,11.7084976 Z M1.29064327,15.3285474 L1.29064327,6.47593893 L37.4286547,6.47593893 L37.4286547,8.61947471 L24.5738478,13.5347124 L19.030535,10.4456895 C18.8812219,10.3617695 18.7048058,10.3408045 18.5400905,10.387406 L1.29064327,15.3285474 Z M37.4286547,1.29518779 L37.4286547,5.18075114 L1.29064327,5.18075114 L1.29064327,1.29518779 L37.4286547,1.29518779 Z M1.29064327,29.7893191 L1.29064327,17.4850351 L37.4286547,17.4850351 L37.4286547,29.7893191 L1.29064327,29.7893191 Z" id="Shape"></path>
+                    <rect id="Rectangle" x="2.58128653" y="2.59037557" width="1.29064327" height="1.29518779"></rect>
+                    <rect id="Rectangle" x="5.16257307" y="2.59037557" width="1.29064327" height="1.29518779"></rect>
+                    <rect id="Rectangle" x="7.7438596" y="2.59037557" width="1.29064327" height="1.29518779"></rect>
+                    <rect id="Rectangle" x="3.22660817" y="18.7802229" width="12.261111" height="1.29518779"></rect>
+                    <rect id="Rectangle" x="3.22660817" y="21.3705985" width="7.7438596" height="1.29518779"></rect>
+                    <rect id="Rectangle" x="3.22660817" y="23.960974" width="12.261111" height="1.29518779"></rect>
+                    <rect id="Rectangle" x="3.22660817" y="26.5513496" width="12.261111" height="1.29518779"></rect>
+                    <path d="M10.0024853,7.12353282 C8.75508078,7.12353282 7.7438596,8.13831463 7.7438596,9.39011144 C7.7438596,10.6419083 8.75508078,11.6566901 10.0024853,11.6566901 C11.2498899,11.6566901 12.261111,10.6419083 12.261111,9.39011144 C12.261111,8.13831463 11.2498899,7.12353282 10.0024853,7.12353282 Z M10.0024853,10.3615023 C9.46788337,10.3615023 9.03450287,9.92659579 9.03450287,9.39011144 C9.03450287,8.8536271 9.46788337,8.4187206 10.0024853,8.4187206 C10.5370873,8.4187206 10.9704678,8.8536271 10.9704678,9.39011144 C10.9704678,9.92659579 10.5370873,10.3615023 10.0024853,10.3615023 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

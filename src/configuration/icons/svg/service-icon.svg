@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>3531B43D-E2B9-4FE5-ABBC-1033AA3176DD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-5.9%" y="-66.7%" width="111.8%" height="233.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.341176471   0 0 0 0 0.494117647   0 0 0 0 0.909803922  0 0 0 0.308132785 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="-⚙-Admin-Devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01--Admin-Devices-List-MENU" transform="translate(-495.000000, -376.000000)">
+            <g id="Module/Table" transform="translate(399.000000, 322.000000)">
+                <g id="Component/Content-Row/Vehice-Info" filter="url(#filter-1)" transform="translate(0.000000, 31.000000)">
+                    <g id="ICO-Servicio" transform="translate(96.000000, 23.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+                        <g id="noun_Cloud_807731" transform="translate(3.000000, 4.000000)" stroke="#9DA7B0" stroke-width="1.5">
+                            <g id="Group">
+                                <path d="M17.3290618,12.773913 C19.6553776,12.773913 21.0869565,11.273913 21.0869565,9.41027668 C21.0869565,7.77391304 19.9685355,6.45573123 18.4922197,6.09209486 C18.7159039,5.54664032 18.8053776,5.04664032 18.7606407,4.41027668 C18.6264302,2.41027668 16.8816934,0.773913043 14.8685355,0.773913043 C12.9895881,0.773913043 11.3790618,2.04664032 10.9764302,3.81936759 C10.3948513,3.13754941 9.50011442,2.68300395 8.47116705,2.81936759 C7.352746,2.91027668 6.45800915,3.68300395 6.05537757,4.68300395 C5.74221968,5.45573123 6.01064073,6.36482213 6.01064073,6.36482213 C4.89221968,6.86482213 4.08695652,8.04664032 4.08695652,9.41027668 C4.08695652,11.273913 5.60800915,12.773913 7.84485126,12.773913 L17.3290618,12.773913 Z" id="Path"></path>
+                                <g transform="translate(18.260870, 12.565217)">
+                                    <polyline id="Path" points="0 0.208695652 0 5.73913043 2.60869565 5.73913043"></polyline>
+                                    <circle id="Oval" cx="4.17391304" cy="5.73913043" r="1.56521739"></circle>
+                                </g>
+                                <g transform="translate(0.000000, 12.565217)">
+                                    <polyline id="Path" points="5.73913043 0.208695652 5.73913043 5.73913043 3.13043478 5.73913043"></polyline>
+                                    <circle id="Oval" cx="1.56521739" cy="5.73913043" r="1.56521739"></circle>
+                                </g>
+                                <g transform="translate(13.043478, 13.086957)">
+                                    <path d="M1.56521739,0 L1.56521739,6.7826087" id="Path"></path>
+                                    <circle id="Oval" cx="1.56521739" cy="8.34782609" r="1.56521739"></circle>
+                                </g>
+                                <g transform="translate(7.826087, 13.086957)">
+                                    <path d="M1.56521739,0 L1.56521739,6.7826087" id="Path"></path>
+                                    <circle id="Oval" cx="1.56521739" cy="8.34782609" r="1.56521739"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

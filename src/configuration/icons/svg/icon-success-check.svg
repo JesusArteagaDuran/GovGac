@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>4FE823E2-F774-47A5-8107-9FDFCF9FDFC1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M46,91.2268908 C21.021878,91.2268908 0.773109244,70.978122 0.773109244,46 C0.773109244,21.021878 21.021878,0.773109244 46,0.773109244 C70.978122,0.773109244 91.2268908,21.021878 91.2268908,46 C91.2268908,70.978122 70.978122,91.2268908 46,91.2268908 Z M46,89.4250226 C69.9829777,89.4250226 89.4250226,69.9829777 89.4250226,46 C89.4250226,22.0170223 69.9829777,2.5749774 46,2.5749774 C22.0170223,2.5749774 2.5749774,22.0170223 2.5749774,46 C2.5749774,69.9829777 22.0170223,89.4250226 46,89.4250226 Z" id="path-1"></path>
+        <filter x="-5.0%" y="-5.0%" width="109.9%" height="109.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-⚙-Design-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-⚙-Iconos" transform="translate(-468.000000, -513.000000)">
+            <g id="tic-Ready" transform="translate(466.000000, 512.000000)">
+                <g id="Group-2" transform="translate(8.000000, 7.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="46" cy="46" r="46"></circle>
+                    <path d="M42.4957306,54.45954 C42.1331059,54.45954 41.7701658,54.3199087 41.4929944,54.0400086 L35.2063435,47.6934812 C34.6516854,47.1336811 34.6510548,46.2254403 35.2047669,45.6646838 C35.7584791,45.104246 36.6571576,45.1036084 37.2115004,45.6634086 L42.4957306,50.9977688 L55.0718703,38.3021636 C55.6262131,37.7417259 56.5245763,37.7426823 57.0786038,38.3034388 C57.6323159,38.8641954 57.6316853,39.7724361 57.0770272,40.3322363 L43.4984667,54.0400086 C43.2212953,54.3199087 42.8583552,54.45954 42.4957306,54.45954" id="checkmark" fill="#00D3A4"></path>
+                    <path d="M46,91.2268908 C21.021878,91.2268908 0.773109244,70.978122 0.773109244,46 C0.773109244,21.021878 21.021878,0.773109244 46,0.773109244 C70.978122,0.773109244 91.2268908,21.021878 91.2268908,46 C91.2268908,70.978122 70.978122,91.2268908 46,91.2268908 Z M46,89.4250226 C69.9829777,89.4250226 89.4250226,69.9829777 89.4250226,46 C89.4250226,22.0170223 69.9829777,2.5749774 46,2.5749774 C22.0170223,2.5749774 2.5749774,22.0170223 2.5749774,46 C2.5749774,69.9829777 22.0170223,89.4250226 46,89.4250226 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <g id="Combined-Shape" style="mix-blend-mode: multiply;">
+                        <use fill="#00D3A4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>3C5015EE-E951-4FA7-8E2E-C3A162EDEC41</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="-⚙-Design-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-⚙-Iconos" transform="translate(-397.000000, -451.000000)">
+            <g id="datasource1" transform="translate(397.000000, 451.000000)">
+                <rect id="Rectangle" fill="#577EE8" x="0" y="0.2" width="16" height="19" rx="1"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1.3" x="2.65" y="4.35" width="10.7" height="4.7" rx="2.35"></rect>
+                <line x1="5.5" y1="6.7" x2="7.5" y2="6.7" id="Line-7" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></line>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1.3" x="2.65" y="11.35" width="10.7" height="4.7" rx="2.35"></rect>
+                <line x1="5.5" y1="13.7" x2="7.5" y2="13.7" id="Line-7" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

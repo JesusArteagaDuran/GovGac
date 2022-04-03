@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EB493042-8D79-4616-A9EA-9010BCE07981</title>
+    <g id="-⚙-Design-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-⚙-Iconos" transform="translate(-598.000000, -1784.000000)" stroke="#577EE8" stroke-width="2.5">
+            <g id="Group-33" transform="translate(598.000000, 1784.000000)">
+                <g id="Group-31" transform="translate(18.000000, 14.000000)">
+                    <g id="Group-30" transform="translate(0.000000, 11.667423)">
+                        <g id="ico-dashboard" transform="translate(0.392713, 0.392713)">
+                            <g id="Activity" transform="translate(0.000000, 0.000000)">
+                                <rect id="Rectangle" x="1.25" y="1.25" width="54.1153846" height="61.1923077" rx="2"></rect>
+                            </g>
+                        </g>
+                        <polyline id="Path_33966" stroke-linecap="round" stroke-linejoin="round" points="20.2874494 30.9676114 25.582996 24.0850203 31.6234819 28.8299596 36.8056681 22.1417005"></polyline>
+                        <circle id="Ellipse_741" stroke-linecap="round" stroke-linejoin="round" cx="42.846154" cy="12.2469636" r="3.40080973"></circle>
+                        <path d="M33.874494,10.3360324 L21.0161944,10.3360324 C15.6882591,10.3360324 12.3846154,14.1093118 12.3846154,19.437247 L12.3846154,33.7368422 C12.3846154,39.0647775 15.6234818,42.8218625 21.0161944,42.8218625 L36.2388665,42.8218625 C41.5668018,42.8218625 44.8704455,39.0647775 44.8704455,33.7368422 L44.8704455,21.2834009" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="16.3157895" y1="55.2388664" x2="41.0850202" y2="55.2388664" id="Line-3-Copy" stroke-linecap="round"></line>
+                        <line x1="21.6234818" y1="49.9311741" x2="35.7773279" y2="49.9311741" id="Line-3" stroke-linecap="round"></line>
+                    </g>
+                    <path d="M16.3157895,7.26381858 L16.3157895,1 C16.3157895,0.44771525 16.7635047,-5.01831098e-14 17.3157895,-5.02845628e-14 L66.9938092,-5.02845628e-14 C67.546094,-5.43102351e-14 67.9938092,0.44771525 67.9938092,1 L67.9938092,60.5985969 C67.9938092,61.1508816 67.546094,61.5985969 66.9938092,61.5985969 L61.2207398,61.5985969 L61.2207398,61.5985969" id="Path-10" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

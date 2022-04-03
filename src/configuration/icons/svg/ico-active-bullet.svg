@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="45px" viewBox="0 0 44 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>2CB7F20A-598B-469D-AC05-ADB8A57BD7E6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="6" cy="6" r="6"></circle>
+    </defs>
+    <g id="-✏️-Widtget-envio-comando" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Comandos-widgets-Mapas---Panel" transform="translate(-513.000000, -1157.000000)">
+            <g id="Group-2" transform="translate(252.000000, 927.000000)">
+                <g id="Group-31">
+                    <g id="in-active" transform="translate(261.000000, 230.000000)">
+                        <g id="Element/Misc/Marker" transform="translate(1.000000, 2.000000)">
+                            <g id="marker" transform="translate(15.500000, 15.500000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="marker-Oval" fill="#1d6ab9 " xlink:href="#path-1"></use>
+                            </g>
+                            <circle id="Base-Oval" stroke-opacity="0.8" stroke="#0B6BF2" fill="#A4CEE0" opacity="0.40" cx="21.5" cy="21.5" r="21"></circle>
+                            
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

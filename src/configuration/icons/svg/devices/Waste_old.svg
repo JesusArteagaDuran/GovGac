@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FC14B437-5B3E-46D4-8CED-3E98C7D20538</title>
+    <g id="-⚙-Design-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Map-Sensor-icons" transform="translate(-24.000000, -88.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="Icons/Luminary-Copy" transform="translate(24.000000, 88.000000)">
+                <g id="Group">
+                    <path d="M11.3748691,6.91181818 L11.3748691,4.65454545 C11.3748691,3.74454545 12.1194145,3 13.0289418,3 L18.2568327,3 C19.1668327,3 19.9113782,3.74454545 19.9113782,4.65454545 L19.9113782,6.91181818" id="Stroke-1"></path>
+                    <path d="M24.4939964,10.7360941 L23.8312327,26.9643236 C23.7910509,27.9383985 22.9079964,28.7356509 21.8675236,28.7356509 L9.81297818,28.7356509 C8.77297818,28.7356509 7.87243273,27.9392849 7.81145091,26.9660963 L6.79272364,10.7356509" id="Stroke-3"></path>
+                    <line x1="5" y1="7.01198909" x2="26.2864364" y2="7.01198909" id="Stroke-5"></line>
+                    <line x1="15.6564291" y1="24.9447164" x2="15.6564291" y2="10.9447164" id="Stroke-7"></line>
+                    <line x1="19.4206936" y1="24.9447164" x2="19.8961936" y2="10.9447164" id="Stroke-9"></line>
+                    <line x1="11.4171536" y1="10.9447164" x2="11.9076536" y2="24.9447164" id="Stroke-11"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

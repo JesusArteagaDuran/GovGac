@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>2F34CBE2-C982-434D-8BDF-A4477537B0B9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#92BC2C" offset="0%"></stop>
+            <stop stop-color="#AFC836" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="21" y="23" width="48" height="48" rx="24"></rect>
+        <filter x="-31.2%" y="-31.2%" width="162.5%" height="162.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.596078431   0 0 0 0 0.764705882   0 0 0 0 0.184313725  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-⚙-Design-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-⚙-Iconos" transform="translate(-568.000000, -374.000000)">
+            <g id="Rules" transform="translate(568.000000, 374.000000)">
+                <g id="Group">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(27.000000, 19.000000)" fill="#2B334A" fill-rule="nonzero">
+                    <path d="M41.69375,4.8125 C41.69375,2.27544193 39.6370581,0.21875 37.1,0.21875 L10.71875,0.21875 C8.31948705,0.21875 6.36774263,2.15085701 6.34375,4.55 L6.16875,28.35 L0.306049312,28.35 L0.306049312,32.41875 C0.280366683,35.56577 2.76134432,38.1630434 5.90625,38.28125 L28.48125,38.28125 C31.6948569,38.28125 34.3,35.6761069 34.3,32.4625 L34.3,11.50625 L41.69375,11.50625 L41.69375,4.8125 Z M6.125,36.53125 C3.87789142,36.53125 2.05625,34.7096086 2.05625,32.4625 L2.05625,30.1 L22.61875,30.1 L22.61875,32.41875 C22.6196724,33.9401917 23.2164621,35.400756 24.28125,36.4875 L6.125,36.53125 Z M32.55,4.8125 L32.55,32.4625 C32.55,34.7216898 30.7185648,36.553125 28.459375,36.553125 C26.2001852,36.553125 24.36875,34.7216898 24.36875,32.4625 L24.36875,28.35 L7.91875,28.35 L8.09375,4.55 C8.11763053,3.11736653 9.28591752,1.96875 10.71875,1.96875 L33.5125,1.96875 C32.8791688,2.78046994 32.539855,3.78298813 32.55,4.8125 Z M39.94375,9.75625 L34.3,9.75625 L34.3,4.8125 C34.1637601,3.72044618 34.6698541,2.64781884 35.5993578,2.05861104 C36.5288614,1.46940324 37.7148886,1.46940324 38.6443922,2.05861104 C39.5738959,2.64781884 40.0799899,3.72044618 39.94375,4.8125 L39.94375,9.75625 Z" id="Shape"></path>
+                    <rect id="Rectangle" x="11.76875" y="7.525" width="8.53125" height="1.75"></rect>
+                    <rect id="Rectangle" x="11.76875" y="12.775" width="16.40625" height="1.75"></rect>
+                    <rect id="Rectangle" x="11.76875" y="18.025" width="16.40625" height="1.75"></rect>
+                    <rect id="Rectangle" x="11.76875" y="23.275" width="16.40625" height="1.75"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

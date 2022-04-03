@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="135px" height="135px" viewBox="0 0 135 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2EA001CC-BDA4-4986-B23F-B33F08351A3A</title>
+    <defs>
+        <path d="M46,0.773109244 C70.978122,0.773109244 91.2268908,21.021878 91.2268908,46 C91.2268908,70.978122 70.978122,91.2268908 46,91.2268908 C21.021878,91.2268908 0.773109244,70.978122 0.773109244,46 C0.773109244,21.021878 21.021878,0.773109244 46,0.773109244 Z M46,2.5749774 C22.0170223,2.5749774 2.5749774,22.0170223 2.5749774,46 C2.5749774,69.9829777 22.0170223,89.4250226 46,89.4250226 C69.9829777,89.4250226 89.4250226,69.9829777 89.4250226,46 C89.4250226,22.0170223 69.9829777,2.5749774 46,2.5749774 Z" id="path-1"></path>
+        <filter x="-5.0%" y="-5.0%" width="109.9%" height="109.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-⚙-Design-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-⚙-Iconos" transform="translate(-735.000000, -1784.000000)">
+            <g id="Group-33-Copy" transform="translate(735.000000, 1784.000000)">
+                <g id="Group-32" transform="translate(7.000000, 45.000000)" stroke="#577EE8" stroke-width="2.5">
+                    <g id="Group-31">
+                        <g id="Group-30" transform="translate(0.000000, 11.667423)">
+                            <g id="ico-dashboard" transform="translate(0.392713, 0.392713)">
+                                <g id="Activity" transform="translate(0.000000, 0.000000)">
+                                    <rect id="Rectangle" x="1.25" y="1.25" width="54.1153846" height="61.1923077" rx="2"></rect>
+                                </g>
+                            </g>
+                            <polyline id="Path_33966" stroke-linecap="round" stroke-linejoin="round" points="20.2874494 30.9676114 25.582996 24.0850203 31.6234819 28.8299596 36.8056681 22.1417005"></polyline>
+                            <circle id="Ellipse_741" stroke-linecap="round" stroke-linejoin="round" cx="42.846154" cy="12.2469636" r="3.40080973"></circle>
+                            <path d="M33.874494,10.3360324 L21.0161944,10.3360324 C15.6882591,10.3360324 12.3846154,14.1093118 12.3846154,19.437247 L12.3846154,33.7368422 C12.3846154,39.0647775 15.6234818,42.8218625 21.0161944,42.8218625 L36.2388665,42.8218625 C41.5668018,42.8218625 44.8704455,39.0647775 44.8704455,33.7368422 L44.8704455,21.2834009" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <line x1="16.3157895" y1="55.2388664" x2="41.0850202" y2="55.2388664" id="Line-3-Copy" stroke-linecap="round"></line>
+                            <line x1="21.6234818" y1="49.9311741" x2="35.7773279" y2="49.9311741" id="Line-3" stroke-linecap="round"></line>
+                        </g>
+                        <path d="M16.3157895,7.26381858 L16.3157895,1 C16.3157895,0.44771525 16.7635047,-5.01831098e-14 17.3157895,-5.02845628e-14 L66.9938092,-5.02845628e-14 C67.546094,-5.43102351e-14 67.9938092,0.44771525 67.9938092,1 L67.9938092,60.5985969 C67.9938092,61.1508816 67.546094,61.5985969 66.9938092,61.5985969 L61.2207398,61.5985969 L61.2207398,61.5985969" id="Path-10" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(38.000000, 10.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="46" cy="46" r="46"></circle>
+                    <path d="M42.4957306,54.45954 C42.1331059,54.45954 41.7701658,54.3199087 41.4929944,54.0400086 L35.2063435,47.6934812 C34.6516854,47.1336811 34.6510548,46.2254403 35.2047669,45.6646838 C35.7584791,45.104246 36.6571576,45.1036084 37.2115004,45.6634086 L42.4957306,50.9977688 L55.0718703,38.3021636 C55.6262131,37.7417259 56.5245763,37.7426823 57.0786038,38.3034388 C57.6323159,38.8641954 57.6316853,39.7724361 57.0770272,40.3322363 L43.4984667,54.0400086 C43.2212953,54.3199087 42.8583552,54.45954 42.4957306,54.45954" id="checkmark" fill="#00D3A4"></path>
+                    <path d="M46,0.773109244 C70.978122,0.773109244 91.2268908,21.021878 91.2268908,46 C91.2268908,70.978122 70.978122,91.2268908 46,91.2268908 C21.021878,91.2268908 0.773109244,70.978122 0.773109244,46 C0.773109244,21.021878 21.021878,0.773109244 46,0.773109244 Z M46,2.5749774 C22.0170223,2.5749774 2.5749774,22.0170223 2.5749774,46 C2.5749774,69.9829777 22.0170223,89.4250226 46,89.4250226 C69.9829777,89.4250226 89.4250226,69.9829777 89.4250226,46 C89.4250226,22.0170223 69.9829777,2.5749774 46,2.5749774 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <g id="Combined-Shape" style="mix-blend-mode: multiply;">
+                        <use fill="#00D3A4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

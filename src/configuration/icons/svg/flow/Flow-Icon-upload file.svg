@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>21214C20-4DCC-4D74-BD17-DB9617A15887</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="912"></rect>
+        <pattern id="pattern-2" width="30.5" height="30.5" x="-30.5" y="-30.5" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(0.5,0.5)"></use>
+        </pattern>
+        <image id="image-3" width="61" height="61" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAA9CAYAAAAeYmHpAAAABGdBTUEAALGN5fIAKQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAPaADAAQAAAABAAAAPQAAAAAS0SmVAAABFklEQVRoBe2avQqDUBSDVTpYnLr0/d+qa+dCKR2kLfRHOt7RxMsh98RNMJrkOw4H7a/3z6/LdjChVbVDNsj/vA6dhbpJm3TDDXi8G4ZbRDPpoo6GT0y6YbhFtJSke2ZTKupTOmFCq2pTjrdDK72WjFeTZtpT0pq0Ei3Gaxjp+fFlfFPauNDPhKEpVKQ4jDTpm5I7NFWfkLj6anm5vVfVcTzsVl0PXRy1Hp7OL/gTMevZ7zQ0KoIikxaEBlkOIz2NYY+O+xNh2icMDc3lRqK4ujcKgNzGoZHWFDUmrUgN8ZySdPXVEiFRXcOuaajByOemHG+HRkdVTWfSasRQvyaNNqemM2k1Yqhfk0abU9OZtBox1G/K1XIBMl1pjUB71iYAAAAASUVORK5CYII="></image>
+    </defs>
+    <g id="-⚙-FIWOO-BI-Backup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flow-Main-Editor---Transformación-2" transform="translate(-40.000000, -267.000000)">
+            <g id="Flow---Background" transform="translate(0.000000, 113.000000)">
+                <g id="Rectangle">
+                    <use fill="#F6F8FE" xlink:href="#path-1"></use>
+                    <use fill="url(#pattern-2)" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="Flow/Sidebar-left" transform="translate(0.000000, 73.000000)">
+                <rect id="Rectangle" stroke="#EDF1FD" fill="#FFFFFF" x="0.5" y="0.5" width="225" height="950"></rect>
+                <g id="Flow---Drag-item-Copy-3" transform="translate(16.000000, 184.000000)">
+                    <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="0" y="0" width="194" height="40"></rect>
+                    <g id="Flow/Icon---Excel" transform="translate(24.000000, 10.000000)">
+                        <rect id="Rectangle" fill="#00D3A4" x="0" y="0" width="16" height="19" rx="1"></rect>
+                        <path d="M9.56983103,2.75 L2.75,3 L3,16.25 L13.25,16 L13.1779303,6.30315619 L11.6557115,4.76087157 L9.56983103,2.75 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <path d="M9.28003468,2.69037504 L9.28003468,5.86946728 C9.28003468,6.42175203 9.72774993,6.86946728 10.2800347,6.86946728 L13.2729964,6.86946728 L13.2729964,6.86946728" id="Path-4" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <g id="Group" transform="translate(6.550000, 8.900000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                            <g id="Path-7-Copy-3">
+                                <line x1="0" y1="1.5" x2="1.5" y2="-4.4408921e-16" id="Path-7-Copy"></line>
+                            </g>
+                            <g id="Path-7-Copy-4" transform="translate(1.050000, 0.000000)">
+                                <line x1="0" y1="1.5" x2="1.5" y2="-4.4408921e-16" id="Path-7-Copy-2" transform="translate(1.000000, 1.000000) scale(-1, 1) translate(-1.000000, -1.000000) "></line>
+                            </g>
+                            <g id="Path-8" transform="translate(1.050000, 1.000000)">
+                                <line x1="0.5" y1="3.9" x2="0.5" y2="0.1" id="Path-7"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

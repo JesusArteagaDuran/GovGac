@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="74px" viewBox="0 0 91 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CB3BB1C5-52F7-4049-8736-3E2AE2A93436</title>
+    <g id="KPI-Wizzard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KPI-Wizard-Auto-1" transform="translate(-1117.000000, -495.000000)">
+            <g id="Group-10" transform="translate(1117.000000, 495.000000)">
+                <rect id="Rectangle" stroke="#577EE8" stroke-width="2" fill="#FFFFFF" x="14" y="11" width="69" height="55"></rect>
+                <rect id="Rectangle" fill="#577EE8" x="17" y="14" width="3" height="3"></rect>
+                <rect id="Rectangle-Copy-2" fill="#577EE8" x="22" y="14" width="3" height="3"></rect>
+                <rect id="Rectangle-Copy-3" fill="#577EE8" x="27" y="14" width="3" height="3"></rect>
+                <line x1="14.5" y1="19.5" x2="81.5" y2="19.5" id="Line" stroke="#577EE8" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="24.5" y1="48" x2="71.5" y2="48" id="Line-Copy" stroke="#577EE8" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="24.5" y1="53" x2="47.5" y2="53" id="Line-Copy-2" stroke="#577EE8" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="24.5" y1="58" x2="42.5" y2="58" id="Line-Copy-3" stroke="#577EE8" stroke-width="2" stroke-linecap="square"></line>
+                <circle id="Oval" stroke="#577EE8" stroke-width="2" cx="34" cy="34" r="8"></circle>
+                <circle id="Oval-Copy" stroke="#577EE8" stroke-width="2" cx="42" cy="34" r="8"></circle>
+                <circle id="Oval" stroke="#577EE8" stroke-width="2" cx="4.5" cy="28.5" r="1.5"></circle>
+                <circle id="Oval-Copy-2" stroke="#577EE8" stroke-width="2" fill="#FFFFFF" cx="83.5" cy="35.5" r="3.5"></circle>
+                <circle id="Oval-Copy-3" stroke="#577EE8" stroke-width="2" fill="#FFFFFF" cx="21.5" cy="66.5" r="3.5"></circle>
+                <line x1="75.625" y1="58.4285714" x2="70.375" y2="63.5714286" id="Line-13" stroke="#577EE8" stroke-width="2" stroke-linecap="round"></line>
+                <line x1="75.625" y1="58.4285714" x2="70.375" y2="63.5714286" id="Line-13-Copy" stroke="#577EE8" stroke-width="2" stroke-linecap="round" transform="translate(73.000000, 61.000000) scale(-1, 1) translate(-73.000000, -61.000000) "></line>
+                <line x1="17.125" y1="43.4285714" x2="11.125" y2="43.4285714" id="Line-13-Copy-2" stroke="#577EE8" stroke-width="2" stroke-linecap="round" transform="translate(14.000000, 43.000000) scale(-1, 1) translate(-14.000000, -43.000000) "></line>
+                <line x1="73.875" y1="3.14285714" x2="72.125" y2="4.85714286" id="Line-13" stroke="#577EE8" stroke-width="2" stroke-linecap="round" transform="translate(73.000000, 4.000000) rotate(-315.000000) translate(-73.000000, -4.000000) "></line>
+                <line x1="73.875" y1="3.14285714" x2="72.125" y2="4.85714286" id="Line-13-Copy" stroke="#577EE8" stroke-width="2" stroke-linecap="round" transform="translate(73.000000, 4.000000) scale(-1, 1) rotate(-315.000000) translate(-73.000000, -4.000000) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

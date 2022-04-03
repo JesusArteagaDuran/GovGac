@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61 (101010) - https://sketch.com -->
+    <title>74355F6F-2E4C-4362-B00E-A2AEED02289F</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Layout-FIWOO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Dashboard-menu-user" transform="translate(-16.000000, -434.000000)" fill="#2B334A" fill-rule="nonzero" stroke="#2B334A" stroke-width="0.5">
+            <g id="Menu-usuariodesplegao" transform="translate(0.000000, 112.000000)">
+                <g id="Nav/Menu/List--#3-Nav/Menu/List-" transform="translate(0.000000, 306.000000)">
+                    <g id="Nav/Menu/List-">
+                        <g id="icon-device-icon-Plantillas" transform="translate(12.000000, 12.000000)">
+                            <g id="ico-Plantillas" transform="translate(4.000000, 4.000000)">
+                                <g id="Group" transform="translate(0.000000, 2.000000)">
+                                    <path d="M23.6,0 L0.4,0 C0.1790861,0 0,0.179716685 0,0.401408451 L0,18.8661972 C0,19.0878889 0.1790861,19.2676056 0.4,19.2676056 L23.6,19.2676056 C23.8209139,19.2676056 24,19.0878889 24,18.8661972 L24,0.401408451 C24,0.179716685 23.8209139,0 23.6,0 Z M11.552,7.25746479 L15.004,9.18021127 C15.1080835,9.23871886 15.2327584,9.24755043 15.344,9.20429577 L23.2,6.20176056 L23.2,10.0352113 L1.856,10.0352113 L11.552,7.25746479 Z M0.8,9.50133803 L0.8,4.01408451 L23.2,4.01408451 L23.2,5.34274648 L15.232,8.38943662 L11.796,6.47471831 C11.7034489,6.42270082 11.5940981,6.40970579 11.492,6.43859155 L0.8,9.50133803 Z M23.2,0.802816901 L23.2,3.21126761 L0.8,3.21126761 L0.8,0.802816901 L23.2,0.802816901 Z M0.8,18.4647887 L0.8,10.8380282 L23.2,10.8380282 L23.2,18.4647887 L0.8,18.4647887 Z" id="Shape"></path>
+                                    <rect id="Rectangle" x="1.6" y="1.6056338" width="1" height="1"></rect>
+                                    <rect id="Rectangle" x="3.2" y="1.6056338" width="1" height="1"></rect>
+                                    <rect id="Rectangle" x="4.8" y="1.6056338" width="1" height="1"></rect>
+                                    <rect id="Rectangle" x="2" y="11.6408451" width="7.6" height="1"></rect>
+                                    <rect id="Rectangle" x="2" y="13.2464789" width="4.8" height="1"></rect>
+                                    <rect id="Rectangle" x="2" y="14.8521127" width="7.6" height="1"></rect>
+                                    <rect id="Rectangle" x="2" y="16.4577465" width="7.6" height="1"></rect>
+                                    <path d="M6.2,4.41549296 C5.42680135,4.41549296 4.8,5.04450135 4.8,5.82042254 C4.8,6.59634372 5.42680135,7.22535211 6.2,7.22535211 C6.97319865,7.22535211 7.6,6.59634372 7.6,5.82042254 C7.6,5.04450135 6.97319865,4.41549296 6.2,4.41549296 Z M6.2,6.42253521 C5.86862915,6.42253521 5.6,6.15296018 5.6,5.82042254 C5.6,5.48788489 5.86862915,5.21830986 6.2,5.21830986 C6.53137085,5.21830986 6.8,5.48788489 6.8,5.82042254 C6.8,6.15296018 6.53137085,6.42253521 6.2,6.42253521 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
